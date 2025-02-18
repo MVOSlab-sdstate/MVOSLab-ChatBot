@@ -1,8 +1,11 @@
 # MVOSLab ChatBot  
 
-<img src="lab_logo.PNG" alt="MVOS Lab Logo" width="120" align="left">
+<p align="left">
+  <img src="lab_logo.PNG" alt="MVOS Lab Logo" width="120">
+</p>
 
-## 🚀 Overview  
+
+## Overview  
 **MVOSLab ChatBot** is a locally running AI chatbot powered by **DeepSeek-R1**, developed at **South Dakota State University's MVOS Lab**. The chatbot utilizes the **Ollama** framework to run AI models efficiently on your local machine.  
 
 ---
@@ -42,8 +45,9 @@ The chatbot runs an API on localhost:11434, which can be accessed via compatible
 DeepSeek-R1: A high-performance open-source LLM.
 Ollama: A framework for running local AI models.
 
-#### 🧑‍💻 Developed by: MVOS Lab, Department of Agricultural & Biosystems Engineering, South Dakota State University, Brookings, SD
-🚀 Contributing to AI & Precision Agriculture Research
+#### 🧑‍💻 Developed by: Machine Vision and Optical Sensor (MVOS) Lab, Department of Agricultural & Biosystems Engineering, South Dakota State University, Brookings, SD
+
+
 
 
 
