@@ -1,4 +1,4 @@
-### MVOSLab ChatBot
+## MVOSLab ChatBot
  South Dakota State University's MVOS Lab's Chatbot based on DeepSeek-R1
 ### Download Ollama using the following link depending upon your OS type.
  https://github.com/ollama/ollama
