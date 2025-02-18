@@ -47,6 +47,9 @@ Ollama: A framework for running local AI models.
 
 #### 🧑‍💻 Developed by: Machine Vision and Optical Sensor (MVOS) Lab, Department of Agricultural & Biosystems Engineering, South Dakota State University, Brookings, SD
 
+## Example Run
+<img src="example_run.png" alt="Example Run of MVOSLab ChatBot" width="600">
+
 
 
 
