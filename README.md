@@ -42,7 +42,7 @@ The chatbot runs an API on localhost:11434, which can be accessed via compatible
 DeepSeek-R1: A high-performance open-source LLM.
 Ollama: A framework for running local AI models.
 
-## 🧑‍💻 Developed by: MVOS Lab, Department of Agricultural & Biosystems Engineering, South Dakota State University, Brookings, SD
+#### 🧑‍💻 Developed by: MVOS Lab, Department of Agricultural & Biosystems Engineering, South Dakota State University, Brookings, SD
 🚀 Contributing to AI & Precision Agriculture Research
 
 
